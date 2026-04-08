@@ -1,0 +1,602 @@
+{
+  "business": {
+    "name": "5 Star Electric San Diego",
+    "phone": "+16194326327",
+    "category": "electrician",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Diego's Trusted Electricians",
+      "heroSubline": "Powering homes and businesses across San Diego County. Reliable electrical solutions, guaranteed.",
+      "aboutTitle": "Your Local San Diego Electricians",
+      "aboutText": [
+        "5 Star Electric San Diego started with a simple goal: provide honest, reliable electrical services to our neighbors. We're San Diegans, born and raised, and we understand the unique needs of homes and businesses in this area.",
+        "We believe in doing the job right the first time. That means using quality materials, staying up-to-date with the latest technologies, and adhering to the strictest safety standards. We treat every project, big or small, with the same level of care and attention to detail.",
+        "San Diego is our home, and we're committed to giving back. We actively support local schools and charities, and we strive to minimize our environmental impact through responsible waste disposal and energy-efficient solutions."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Experts",
+          "description": "San Diego natives understanding local building codes and common electrical issues."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. You'll know the cost before we start any work."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Electrical emergencies don't wait, and neither do we. Available around the clock."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "Protecting your property and peace of mind with full licensing and insurance coverage."
+        }
+      ],
+      "ctaHeadline": "Need an Electrician?",
+      "ctaSubline": "Get a free quote today for your electrical project!"
+    },
+    "services": [
+      {
+        "slug": "electrical-panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Upgrade your electrical panel for increased safety and capacity.",
+        "description": "Is your electrical panel outdated, tripping frequently, or unable to handle your modern power demands? 5 Star Electric San Diego specializes in electrical panel upgrades, ensuring your home or business has the reliable power it needs. We'll assess your current electrical load, recommend the appropriate panel size, and handle the entire upgrade process safely and efficiently. \n\nMany older San Diego homes, especially those in neighborhoods like North Park and South Park, have outdated panels that can't handle modern appliances and electronics. Upgrading your panel not only improves safety but also increases your home's value. We use only top-quality panels and components, ensuring long-lasting performance and reliability. \n\nOur experienced electricians will handle all necessary permits and inspections, ensuring your upgrade meets all local codes and regulations. We'll also minimize any disruption to your daily routine, completing the work as quickly and efficiently as possible. Don't risk electrical fires or power outages due to an overloaded panel. Contact 5 Star Electric San Diego for a free panel upgrade consultation.",
+        "process": [
+          "Assessment of current electrical load",
+          "Recommendation of appropriate panel size",
+          "Safe removal of old panel",
+          "Installation of new panel and components",
+          "Testing and verification of proper operation",
+          "Cleanup and disposal of old materials"
+        ],
+        "benefits": [
+          "Increased safety",
+          "Improved reliability",
+          "Enhanced home value",
+          "Accommodates modern power demands",
+          "Prevents electrical fires"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Common signs include frequent tripping of breakers, flickering lights, and difficulty running multiple appliances simultaneously. If your panel is over 25 years old, it's also a good idea to have it inspected."
+          },
+          {
+            "question": "How long does an electrical panel upgrade take?",
+            "answer": "Most panel upgrades can be completed in a single day, minimizing disruption to your home or business. The exact timeline depends on the complexity of the project and local inspection schedules."
+          },
+          {
+            "question": "What type of electrical panel should I choose?",
+            "answer": "The best panel for your needs depends on your current and future power demands. We'll assess your situation and recommend the appropriate panel size and type, ensuring it meets your specific requirements."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-installation",
+        "name": "Lighting Installation",
+        "shortDescription": "Expert lighting installation to enhance your home's ambiance and functionality.",
+        "description": "Transform your home or business with professional lighting installation from 5 Star Electric San Diego. From recessed lighting and chandeliers to outdoor security lights and landscape lighting, we can handle any lighting project, big or small. We understand the importance of proper lighting in creating the right ambiance and enhancing the functionality of your space.\n\nWhether you're renovating your kitchen, updating your living room, or adding outdoor lighting to your backyard, our experienced electricians will work with you to design and install a lighting system that meets your specific needs and preferences. We'll consider factors such as energy efficiency, light output, and aesthetic appeal to create a lighting solution that is both beautiful and practical.\n\nWe also specialize in smart lighting systems, allowing you to control your lights remotely and automate your lighting schedules. With smart lighting, you can save energy, improve security, and create custom lighting scenes for different activities. Let 5 Star Electric San Diego brighten up your life with expert lighting installation.",
+        "process": [
+          "Consultation to discuss lighting needs and preferences",
+          "Design of lighting layout and selection of fixtures",
+          "Safe and efficient installation of wiring and fixtures",
+          "Testing and verification of proper operation",
+          "Cleanup and disposal of old materials"
+        ],
+        "benefits": [
+          "Enhanced ambiance",
+          "Improved functionality",
+          "Increased energy efficiency",
+          "Enhanced security",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting is more energy-efficient, longer-lasting, and produces less heat than traditional incandescent bulbs. They also come in a variety of colors and styles, allowing you to customize your lighting to your specific needs."
+          },
+          {
+            "question": "Can you install outdoor lighting?",
+            "answer": "Yes, we specialize in outdoor lighting installation, including security lights, landscape lighting, and patio lighting. We'll ensure your outdoor lighting is installed safely and meets all local codes and regulations."
+          },
+          {
+            "question": "What is smart lighting?",
+            "answer": "Smart lighting allows you to control your lights remotely using your smartphone or tablet. You can also automate your lighting schedules and create custom lighting scenes for different activities."
+          }
+        ]
+      },
+      {
+        "slug": "outlet-and-switch-repair",
+        "name": "Outlet and Switch Repair",
+        "shortDescription": "Fast and reliable outlet and switch repair services.",
+        "description": "Faulty outlets and switches can be a safety hazard and a major inconvenience. 5 Star Electric San Diego provides fast and reliable outlet and switch repair services to homes and businesses throughout San Diego County. Whether you have a broken outlet, a flickering switch, or a loose connection, our experienced electricians can diagnose and repair the problem quickly and efficiently.\n\nWe understand the importance of safety when it comes to electrical repairs. That's why we always follow the strictest safety standards and use only high-quality materials. We'll also take the time to explain the problem and the repair process to you, so you can be confident that the job is done right.\n\nDon't let a faulty outlet or switch put your family or employees at risk. Contact 5 Star Electric San Diego for prompt and professional repair services. We're available 24/7 for emergency repairs.",
+        "process": [
+          "Diagnosis of the problem",
+          "Safe and efficient repair or replacement of outlet or switch",
+          "Testing and verification of proper operation",
+          "Cleanup and disposal of old materials"
+        ],
+        "benefits": [
+          "Improved safety",
+          "Eliminates electrical hazards",
+          "Restores functionality",
+          "Prevents further damage",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my outlet or switch needs repair?",
+            "answer": "Common signs include sparks, smoke, buzzing sounds, and loose connections. If you notice any of these signs, it's important to call a qualified electrician immediately."
+          },
+          {
+            "question": "Can I replace an outlet or switch myself?",
+            "answer": "While it may seem like a simple task, electrical repairs can be dangerous if not done properly. It's always best to hire a qualified electrician to ensure the job is done safely and correctly."
+          },
+          {
+            "question": "How much does it cost to repair an outlet or switch?",
+            "answer": "The cost of repair depends on the complexity of the problem and the type of outlet or switch. We offer upfront pricing and will provide you with a free estimate before starting any work."
+          }
+        ]
+      },
+      {
+        "slug": "wiring-services",
+        "name": "Wiring Services",
+        "shortDescription": "Comprehensive wiring services for new construction and remodels.",
+        "description": "5 Star Electric San Diego offers comprehensive wiring services for new construction and remodeling projects. We have the experience and expertise to handle any wiring job, from basic electrical wiring to complex data and communication cabling. We work closely with homeowners, contractors, and architects to ensure that the wiring is installed safely and efficiently, and that it meets all local codes and regulations.\n\nWhether you're building a new home in Scripps Ranch or remodeling your kitchen in Pacific Beach, we can provide the wiring services you need. We use only high-quality materials and follow the strictest safety standards. We'll also take the time to explain the wiring process to you, so you can be confident that the job is done right.\n\nWe also specialize in smart home wiring, allowing you to integrate your lighting, security, and entertainment systems into a single, easy-to-use platform. With smart home wiring, you can control your home from anywhere in the world.",
+        "process": [
+          "Consultation to discuss wiring needs and preferences",
+          "Design of wiring layout and selection of materials",
+          "Safe and efficient installation of wiring and components",
+          "Testing and verification of proper operation",
+          "Cleanup and disposal of old materials"
+        ],
+        "benefits": [
+          "Safe and reliable wiring",
+          "Meets all local codes and regulations",
+          "Increases home value",
+          "Provides for future expansion",
+          "Supports smart home technology"
+        ],
+        "faq": [
+          {
+            "question": "What type of wiring should I use?",
+            "answer": "The type of wiring you should use depends on your specific needs and the local codes and regulations. We can help you choose the right wiring for your project."
+          },
+          {
+            "question": "How much does it cost to wire a house?",
+            "answer": "The cost of wiring a house depends on the size of the house, the complexity of the wiring, and the type of materials used. We offer upfront pricing and will provide you with a free estimate before starting any work."
+          },
+          {
+            "question": "What is smart home wiring?",
+            "answer": "Smart home wiring allows you to integrate your lighting, security, and entertainment systems into a single, easy-to-use platform. You can control your home from anywhere in the world using your smartphone or tablet."
+          }
+        ]
+      },
+      {
+        "slug": "ceiling-fan-installation",
+        "name": "Ceiling Fan Installation",
+        "shortDescription": "Professional ceiling fan installation for comfort and energy efficiency.",
+        "description": "Keep your home cool and comfortable with professional ceiling fan installation from 5 Star Electric San Diego. We can install ceiling fans in any room of your home, providing increased air circulation and energy savings. Our experienced electricians will ensure that your ceiling fan is installed safely and securely, and that it operates properly.\n\nWhether you're looking to install a new ceiling fan or replace an existing one, we can help. We offer a wide selection of ceiling fans to choose from, including models with lights, remote controls, and energy-efficient motors. We'll also take the time to explain the different features and benefits of each fan, so you can make an informed decision.\n\nWe understand the importance of proper installation when it comes to ceiling fans. That's why we always follow the strictest safety standards and use only high-quality materials. We'll also ensure that your ceiling fan is properly balanced and aligned, so it operates smoothly and quietly.",
+        "process": [
+          "Assessment of ceiling structure and wiring",
+          "Safe and secure mounting of ceiling fan",
+          "Connection of wiring and testing of operation",
+          "Balancing and alignment of fan blades",
+          "Cleanup and disposal of old materials"
+        ],
+        "benefits": [
+          "Increased air circulation",
+          "Energy savings",
+          "Improved comfort",
+          "Enhanced aesthetics",
+          "Quiet operation"
+        ],
+        "faq": [
+          {
+            "question": "Can I install a ceiling fan myself?",
+            "answer": "While it may seem like a simple task, ceiling fan installation can be dangerous if not done properly. It's always best to hire a qualified electrician to ensure the job is done safely and correctly."
+          },
+          {
+            "question": "How much does it cost to install a ceiling fan?",
+            "answer": "The cost of installation depends on the type of fan, the complexity of the wiring, and the location of the fan. We offer upfront pricing and will provide you with a free estimate before starting any work."
+          },
+          {
+            "question": "What size ceiling fan should I choose?",
+            "answer": "The size of the ceiling fan you should choose depends on the size of the room. We can help you determine the right size fan for your needs."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-inspections",
+        "name": "Electrical Inspections",
+        "shortDescription": "Thorough electrical inspections for safety and code compliance.",
+        "description": "Ensure the safety and code compliance of your home or business with a thorough electrical inspection from 5 Star Electric San Diego. Our experienced electricians will inspect your electrical system for potential hazards, code violations, and other problems. We'll provide you with a detailed report of our findings and recommendations for repairs or upgrades.\n\nWhether you're buying a new home, selling your existing home, or simply want to ensure the safety of your electrical system, an electrical inspection is a smart investment. We'll check your wiring, outlets, switches, electrical panel, and other components to ensure they are in good working order.\n\nWe understand the importance of safety when it comes to electrical systems. That's why we always follow the strictest safety standards and use the latest diagnostic equipment. We'll also take the time to explain our findings to you, so you can understand any potential risks and make informed decisions about your electrical system.",
+        "process": [
+          "Visual inspection of wiring, outlets, and switches",
+          "Testing of electrical panel and circuits",
+          "Inspection for code violations and potential hazards",
+          "Preparation of detailed inspection report",
+          "Recommendations for repairs or upgrades"
+        ],
+        "benefits": [
+          "Improved safety",
+          "Code compliance",
+          "Early detection of problems",
+          "Increased home value",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have an electrical inspection?",
+            "answer": "It's recommended to have an electrical inspection every 3-5 years, or whenever you're buying or selling a home."
+          },
+          {
+            "question": "What happens if my inspection reveals problems?",
+            "answer": "We'll provide you with a detailed report of our findings and recommendations for repairs or upgrades. We can also provide you with a free estimate for any necessary work."
+          },
+          {
+            "question": "How much does an electrical inspection cost?",
+            "answer": "The cost of an electrical inspection depends on the size of the property and the complexity of the electrical system. We offer upfront pricing and will provide you with a free quote before starting any work."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-electrical-services",
+        "name": "Emergency Electrical Services",
+        "shortDescription": "24/7 emergency electrical services for urgent repairs.",
+        "description": "Electrical emergencies don't wait for business hours. That's why 5 Star Electric San Diego offers 24/7 emergency electrical services for urgent repairs. Whether you have a power outage, a downed power line, or a sparking outlet, our experienced electricians are available to help, day or night.\n\nWe understand the importance of responding quickly to electrical emergencies. That's why we have a team of electricians on call 24 hours a day, 7 days a week. We'll arrive at your home or business as quickly as possible to assess the situation and make the necessary repairs.\n\nWe're equipped to handle any electrical emergency, from simple repairs to complex wiring problems. We also have the latest diagnostic equipment to quickly identify the source of the problem. Don't risk your safety by trying to handle an electrical emergency yourself. Contact 5 Star Electric San Diego for prompt and professional emergency services.",
+        "process": [
+          "Immediate response to emergency call",
+          "Assessment of the situation",
+          "Safe and efficient repair of the problem",
+          "Testing and verification of proper operation",
+          "Cleanup and disposal of old materials"
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Fast response time",
+          "Safe and reliable repairs",
+          "Peace of mind",
+          "Prevents further damage"
+        ],
+        "faq": [
+          {
+            "question": "What is considered an electrical emergency?",
+            "answer": "An electrical emergency is any situation that poses an immediate threat to your safety or property, such as a power outage, a downed power line, or a sparking outlet."
+          },
+          {
+            "question": "How quickly can you respond to an emergency?",
+            "answer": "We strive to respond to emergency calls as quickly as possible, typically within 30-60 minutes, depending on your location and the availability of our electricians."
+          },
+          {
+            "question": "How much does emergency electrical service cost?",
+            "answer": "The cost of emergency service depends on the nature of the problem and the time of day. We offer upfront pricing and will provide you with a free estimate before starting any work."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Chula Vista",
+        "slug": "chula-vista-ca",
+        "state": "CA",
+        "content": "5 Star Electric San Diego is proud to provide comprehensive electrical services to the residents and businesses of Chula Vista, California. As the second-largest city in San Diego County, Chula Vista presents a unique blend of suburban living and thriving commercial activity. We understand the electrical needs of Chula Vista's diverse housing stock, especially the prevalent 1970s and 80s suburban homes, and are equipped to handle everything from routine maintenance to complete electrical system upgrades. \n\nOur experienced electricians are well-versed in addressing the specific challenges of older homes, such as outdated wiring and insufficient electrical capacity. We also provide modern solutions including smart home integration, EV charger installation, and energy-efficient lighting upgrades to help Chula Vista residents save money and reduce their environmental impact. Whether you're dealing with a flickering light, need a new circuit installed, or require a complete home rewiring, 5 Star Electric San Diego is here to provide reliable and professional service in Chula Vista.",
+        "localContext": "Chula Vista's mild year-round climate allows for outdoor living and activities, but it also means electrical systems are constantly exposed to the elements. We understand the importance of ensuring that your electrical systems are properly protected and maintained to withstand the environmental conditions.",
+        "nearbyAreas": [
+          "San Diego",
+          "National City",
+          "Imperial Beach"
+        ]
+      },
+      {
+        "city": "Carlsbad",
+        "slug": "carlsbad-ca",
+        "state": "CA",
+        "content": "5 Star Electric San Diego is delighted to offer our expert electrical services to the beautiful coastal community of Carlsbad, California. Known for its stunning beaches, vibrant village, and family-friendly atmosphere, Carlsbad requires electrical services that are both reliable and aesthetically sensitive. We understand the unique character of Carlsbad's diverse architecture, including its charming beach community cottages, and strive to provide electrical solutions that complement the existing style and design. \n\nFrom wiring new additions to upgrading electrical panels and installing custom lighting, our team is committed to providing top-notch workmanship and personalized service. We also specialize in outdoor lighting solutions that enhance the beauty of your property and create a welcoming ambiance for entertaining. Whether you're a homeowner, business owner, or property manager in Carlsbad, you can count on 5 Star Electric San Diego to meet all of your electrical needs with professionalism and expertise.",
+        "localContext": "Carlsbad's coastal location and mild year-round climate create specific electrical needs, such as protection against corrosion from salt air and the need for energy-efficient solutions to maximize comfort.",
+        "nearbyAreas": [
+          "Oceanside",
+          "Encinitas",
+          "Vista"
+        ]
+      },
+      {
+        "city": "Escondido",
+        "slug": "escondido-ca",
+        "state": "CA",
+        "content": "5 Star Electric San Diego is proud to serve the residents and businesses of Escondido, California, with our comprehensive range of electrical services. As a diverse and growing city in North County San Diego, Escondido boasts a mix of residential, commercial, and agricultural properties. We are familiar with the electrical systems commonly found in Escondido's housing stock, including the many 1960s and 70s ranch-style homes, and are well-equipped to handle any electrical challenge you may face. \n\nWhether you're looking to upgrade your home's electrical panel, install new lighting fixtures, or troubleshoot a faulty circuit, our experienced electricians are here to help. We also provide specialized services such as whole-house surge protection, generator installation, and electrical safety inspections to ensure the safety and reliability of your electrical system. At 5 Star Electric San Diego, we are committed to providing prompt, professional, and affordable electrical services to the Escondido community.",
+        "localContext": "Escondido's inland location and mild year-round climate can still present electrical challenges, such as high temperatures that can strain electrical systems and the need for adequate surge protection due to occasional thunderstorms.",
+        "nearbyAreas": [
+          "San Marcos",
+          "Vista",
+          "Poway"
+        ]
+      },
+      {
+        "city": "San Diego",
+        "slug": "san-diego-ca",
+        "state": "CA",
+        "content": "5 Star Electric San Diego is your trusted electrical expert serving the entire San Diego metro area.  From downtown condos to sprawling suburban homes, we understand the diverse electrical needs of San Diego residents and businesses.  We provide comprehensive services, including electrical repairs, installations, upgrades, and maintenance.\n\nOur team of licensed and experienced electricians is equipped to handle any electrical project, big or small. We prioritize safety, reliability, and customer satisfaction, ensuring that every job is completed to the highest standards. We offer a wide range of services to meet your specific needs and budget.",
+        "localContext": "San Diego's coastal climate presents unique electrical challenges, from corrosion to the need for robust surge protection. We are familiar with these challenges and provide solutions to ensure the longevity and reliability of your electrical systems.",
+        "nearbyAreas": [
+          "Chula Vista",
+          "La Jolla",
+          "Coronado"
+        ]
+      },
+      {
+        "city": "Oceanside",
+        "slug": "oceanside-ca",
+        "state": "CA",
+        "content": "5 Star Electric San Diego extends its expert electrical services to the coastal city of Oceanside, California. Known for its beautiful beaches, harbor, and historic pier, Oceanside demands reliable and efficient electrical solutions for its residents and businesses. We cater to a wide array of properties, from beachfront homes to commercial establishments, providing top-notch electrical installations, repairs, and maintenance.\n\nOur skilled electricians are adept at handling various electrical needs, including wiring new constructions, upgrading outdated systems, and installing energy-efficient lighting. We also specialize in outdoor lighting designs to enhance your property's aesthetics and security. Whether you're a homeowner requiring a simple repair or a business owner planning a major electrical upgrade, 5 Star Electric San Diego is your trusted partner in Oceanside.",
+        "localContext": "Oceanside's proximity to the ocean necessitates electrical systems that can withstand the corrosive effects of salt air. We understand the importance of using high-quality materials and proper installation techniques to ensure the durability of your electrical infrastructure.",
+        "nearbyAreas": [
+          "Carlsbad",
+          "Vista",
+          "Camp Pendleton"
+        ]
+      },
+      {
+        "city": "Encinitas",
+        "slug": "encinitas-ca",
+        "state": "CA",
+        "content": "5 Star Electric San Diego is pleased to offer its reliable electrical services to the charming coastal city of Encinitas, California. With its laid-back atmosphere, beautiful beaches, and thriving surf culture, Encinitas requires electrical solutions that are both functional and aesthetically pleasing. We understand the unique character of Encinitas's diverse neighborhoods, from the historic downtown area to the upscale coastal communities, and strive to provide electrical services that meet the specific needs of each resident and business.\n\nFrom installing custom lighting to upgrading electrical panels and troubleshooting electrical issues, our experienced electricians are committed to providing top-quality workmanship and personalized service. We also specialize in energy-efficient solutions that help Encinitas residents save money and reduce their carbon footprint. Whether you're renovating your home, building a new commercial space, or simply need an electrical repair, 5 Star Electric San Diego is here to serve you in Encinitas.",
+        "localContext": "Encinitas's coastal location and mild climate require electrical systems that are resistant to corrosion and can withstand occasional storms. We use only the highest quality materials and follow best practices to ensure the longevity and reliability of your electrical installations.",
+        "nearbyAreas": [
+          "Carlsbad",
+          "Solana Beach",
+          "Leucadia"
+        ]
+      },
+      {
+        "city": "La Jolla",
+        "slug": "la-jolla-ca",
+        "state": "CA",
+        "content": "5 Star Electric San Diego provides premium electrical services to the prestigious community of La Jolla, California. Known for its stunning coastline, upscale residences, and world-class institutions, La Jolla demands the highest standards of quality and professionalism. We cater to the unique electrical needs of La Jolla's diverse properties, from luxurious estates to sophisticated commercial spaces.\n\nOur team of highly skilled and experienced electricians is equipped to handle any electrical project, big or small. We specialize in custom lighting design, smart home automation, and energy-efficient solutions. Whether you're renovating a historic property or building a new custom home, 5 Star Electric San Diego is your trusted partner in La Jolla, ensuring exceptional workmanship and unparalleled customer service.",
+        "localContext": "La Jolla's coastal environment and unique architectural styles require specialized electrical expertise. We understand the importance of preserving the aesthetic integrity of La Jolla's properties while ensuring safe and reliable electrical systems.",
+        "nearbyAreas": [
+          "San Diego",
+          "Del Mar",
+          "Pacific Beach"
+        ]
+      },
+      {
+        "city": "Poway",
+        "slug": "poway-ca",
+        "state": "CA",
+        "content": "5 Star Electric San Diego is dedicated to providing top-notch electrical services to the family-friendly community of Poway, California. Known as \"The City in the Country\", Poway boasts a mix of residential neighborhoods, parks, and open spaces. We understand the electrical needs of Poway's diverse housing stock, from single-family homes to townhouses, and are committed to providing reliable and affordable electrical solutions.\n\nOur experienced electricians are well-versed in addressing the electrical challenges of older homes, such as outdated wiring and insufficient electrical capacity. We also provide modern solutions including smart home integration, EV charger installation, and energy-efficient lighting upgrades to help Poway residents save money and reduce their environmental impact. Whether you're dealing with a power outage, need a new circuit installed, or require a complete home rewiring, 5 Star Electric San Diego is here to provide prompt and professional service in Poway.",
+        "localContext": "Poway's inland location and warm climate can put a strain on electrical systems. We understand the importance of proper ventilation and surge protection to ensure the longevity and reliability of your electrical infrastructure.",
+        "nearbyAreas": [
+          "Escondido",
+          "Rancho Bernardo",
+          "Scripps Ranch"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "5 Star Electric upgraded my electrical panel in my 1940s cottage near Coronado. They were prompt, professional, and explained everything clearly. I feel much safer now and can finally run my AC without tripping breakers! Highly recommend.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Lighting Installation",
+        "text": "We hired 5 Star Electric to install new recessed lighting in our kitchen in La Jolla. The electrician was skilled and efficient. There was a small hiccup with one of the fixtures, but they quickly resolved it to our satisfaction. Overall, we're very happy with the results.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Outlet Repair",
+        "text": "I had a faulty outlet in my home office that was sparking. 5 Star Electric came out quickly and repaired it safely. The electrician was friendly and professional, and the price was reasonable. Very grateful for their quick response!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Ceiling Fan Installation",
+        "text": "Great experience with 5 Star Electric! They installed two new ceiling fans in my bedrooms in my house in Hillcrest. The installation was quick and clean, and the fans look great. I'm already noticing a difference in the air circulation.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Wiring Services",
+        "text": "We used 5 Star Electric for some minor rewiring during our bathroom remodel. The electrician was knowledgeable and provided helpful suggestions. The work was completed on time and within budget. Would use them again.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Emergency Electrical Services",
+        "text": "Had a power outage late at night and 5 Star Electric was there within an hour. They quickly diagnosed the problem and restored power. Very professional and reliable service. Saved the day!",
+        "date": "2024-10-27"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "5 Star Electric San Diego | Local Electrician",
+        "description": "Trusted electricians in San Diego, CA. Panel upgrades, lighting, repairs, and more. Licensed, insured, and ready to serve you. Call today!"
+      },
+      "about": {
+        "title": "About 5 Star Electric San Diego",
+        "description": "Learn about 5 Star Electric San Diego's commitment to quality, reliability, and community. Your trusted local electrical experts."
+      },
+      "services": {
+        "title": "Electrical Services San Diego | 5 Star Electric",
+        "description": "Comprehensive electrical services in San Diego. Panel upgrades, lighting, outlet repair, wiring & more. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact 5 Star Electric San Diego",
+        "description": "Contact 5 Star Electric San Diego for all your electrical needs. Get a free quote or schedule an appointment. Call us today!"
+      },
+      "reviews": {
+        "title": "5 Star Electric San Diego | Customer Reviews",
+        "description": "Read what our satisfied customers are saying about 5 Star Electric San Diego. Quality electrical services and exceptional customer care."
+      },
+      "service-areas": {
+        "title": "5 Star Electric San Diego | Service Areas",
+        "description": "5 Star Electric San Diego provides electrical services throughout San Diego County. See our service areas and call for a free quote."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-panel-upgrades": "/images/service-electrical-panel-upgrades.webp",
+      "lighting-installation": "/images/service-lighting-installation.webp",
+      "outlet-and-switch-repair": "/images/service-outlet-and-switch-repair.webp",
+      "wiring-services": "/images/service-wiring-services.webp",
+      "ceiling-fan-installation": "/images/service-ceiling-fan-installation.webp",
+      "electrical-inspections": "/images/service-electrical-inspections.webp",
+      "emergency-electrical-services": "/images/service-emergency-electrical-services.webp"
+    },
+    "servicesResponsive": {
+      "electrical-panel-upgrades": {
+        "src": "/images/service-electrical-panel-upgrades.webp",
+        "srcset": "/images/service-electrical-panel-upgrades-400w.webp 400w, /images/service-electrical-panel-upgrades-800w.webp 800w, /images/service-electrical-panel-upgrades-1200w.webp 1200w, /images/service-electrical-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-installation": {
+        "src": "/images/service-lighting-installation.webp",
+        "srcset": "/images/service-lighting-installation-400w.webp 400w, /images/service-lighting-installation-800w.webp 800w, /images/service-lighting-installation-1200w.webp 1200w, /images/service-lighting-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outlet-and-switch-repair": {
+        "src": "/images/service-outlet-and-switch-repair.webp",
+        "srcset": "/images/service-outlet-and-switch-repair-400w.webp 400w, /images/service-outlet-and-switch-repair-800w.webp 800w, /images/service-outlet-and-switch-repair-1200w.webp 1200w, /images/service-outlet-and-switch-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wiring-services": {
+        "src": "/images/service-wiring-services.webp",
+        "srcset": "/images/service-wiring-services-400w.webp 400w, /images/service-wiring-services-800w.webp 800w, /images/service-wiring-services-1200w.webp 1200w, /images/service-wiring-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ceiling-fan-installation": {
+        "src": "/images/service-ceiling-fan-installation.webp",
+        "srcset": "/images/service-ceiling-fan-installation-400w.webp 400w, /images/service-ceiling-fan-installation-800w.webp 800w, /images/service-ceiling-fan-installation-1200w.webp 1200w, /images/service-ceiling-fan-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-inspections": {
+        "src": "/images/service-electrical-inspections.webp",
+        "srcset": "/images/service-electrical-inspections-400w.webp 400w, /images/service-electrical-inspections-800w.webp 800w, /images/service-electrical-inspections-1200w.webp 1200w, /images/service-electrical-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-electrical-services": {
+        "src": "/images/service-emergency-electrical-services.webp",
+        "srcset": "/images/service-emergency-electrical-services-400w.webp 400w, /images/service-emergency-electrical-services-800w.webp 800w, /images/service-emergency-electrical-services-1200w.webp 1200w, /images/service-emergency-electrical-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
